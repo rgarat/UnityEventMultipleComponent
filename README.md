@@ -8,6 +8,7 @@ I am trying to configure a unityevent with two actions where each point to a dif
 2)there are two gameobjects named Broken and Fixed
 3)if you use the context menu execute option in the invoker script it will
     print 
+    
    for the broken prefab
       First - 1
       First - 2
