@@ -5,11 +5,13 @@ I am trying to configure a unityevent with two actions where each point to a dif
 2. How we can reproduce it using the example you attached
 
 1)Open the TestScene
+
 2)there are two gameobjects named Broken and Fixed
-3)if you use the context menu execute option in the invoker script it will
-    print 
+
+3)if you use the context menu execute option in the invoker script it will print 
     
    for the broken prefab
+   
       First - 1
       First - 2
 
@@ -24,7 +26,9 @@ the fixed prefab is made by manually editting the serialized prefab data to poin
 I tested this on 
 
 2017.1.0p5
+
 2017.2.0p1
+
 2017.3.0b9
 
 and the same thing happens in all of them
